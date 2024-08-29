@@ -1,5 +1,5 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Bryan Fierro 👋
+### Ingeniero electronico y estudiante de master en inteligencia artificial
 
 <!--
 **bryanf10/bryanf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
