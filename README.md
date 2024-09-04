@@ -1,6 +1,6 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Bryan Fierro 👋
 ### Ingeniero electronico y estudiante de master en inteligencia artificial
-
+<iframe src="https://giphy.com/embed/UEJ6DQQp68LJSnyaBb" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb">via GIPHY</a></p>
 <!--
 **bryanf10/bryanf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
