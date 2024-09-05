@@ -1,6 +1,6 @@
 # 👋 Hola, mi nombre es Bryan 👋
 
-**Ingeniero en Electrónica **  
+**Ingeniero en Electrónica**  
 **Estudiante de Maestría en Inteligencia Artificial**
 
 
