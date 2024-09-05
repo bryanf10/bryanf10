@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mí     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhheGgxczdxbTFxOXM5Z203ZW11a2FmbTMzZDZqYmF1M2psYXZlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KH26c44GWcwlty8DnW/giphy.gif" width="100" align="center"> 
+## 🚀 Sobre mí<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhheGgxczdxbTFxOXM5Z203ZW11a2FmbTMzZDZqYmF1M2psYXZlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KH26c44GWcwlty8DnW/giphy.gif" width="100" align="center"> 
 
 Soy ingeniero de software con formación en **Ingeniería Electrónica** y actualmente curso una **Maestría en Inteligencia Artificial**. Me apasiona el desarrollo de soluciones tecnológicas innovadoras, especialmente en los campos de **procesamiento de lenguaje natural** y **automatización**.
 
