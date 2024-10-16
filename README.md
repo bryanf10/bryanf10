@@ -34,9 +34,9 @@ He trabajado en varios proyectos relacionados con **automatización** y **análi
 
 ## 🌍 Encuéntrame en:
 
-- [GitHub](https://github.com/tuusuario)
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Twitter](https://twitter.com/tuusuario)
+- [GitHub](https://github.com/bryanf10)
+- [LinkedIn](https://www.linkedin.com/in/bryan-f-383473125/)
+
 
 ---
 
